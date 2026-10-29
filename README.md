@@ -1,5 +1,9 @@
 # Bridgewatch
 
+> A cross-chain message monitor prototype that correlates origin events with destination events and highlights pending delivery.
+
+![Bridgewatch](assets/logo.svg)
+
 Cross-chain event monitor prototype that compares outgoing and incoming messages by nonce.
 
 ```bash
